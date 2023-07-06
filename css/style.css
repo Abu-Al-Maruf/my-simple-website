@@ -1,7 +1,8 @@
-div{
+section div{
     background-color: tomato;
     color: black;
     padding: 50px;
     font-size: 20px;
     width: 40%;
+    margin-bottom: 2px;
 }
